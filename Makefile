@@ -98,7 +98,6 @@ emph.h\
 eq.h\
 fastmath.h\
 fcurve.h\
-fftw3.h\
 fir.h\
 fmd.h\
 fmmod.h\
